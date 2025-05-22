@@ -76,7 +76,8 @@ In the **automatic mode**, the fan speed is based on where the temperature is wi
 ---
 
 ## Video 
-<iframe src="https://drive.google.com/file/d/1iilCVdZNIHtKcJRFah3e1ugyHcfu_4iM/preview" width="640" height="480" allow="autoplay"></iframe>
+
+https://github.com/GuanShiChen/Temperature_Controlled_Smart_Fan/blob/main/Pictures/Smart%20Fan%20-%20Manual%20Potentiometer%20Adjust.mp4
 
 ---
 
