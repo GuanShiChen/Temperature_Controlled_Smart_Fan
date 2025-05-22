@@ -76,7 +76,6 @@ In the **automatic mode**, the fan speed is based on where the temperature is wi
 ---
 
 ## Video 
-<!-- ### Manual: -->
 <iframe src="https://drive.google.com/file/d/1iilCVdZNIHtKcJRFah3e1ugyHcfu_4iM/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ---
