@@ -77,8 +77,10 @@ In the **automatic mode**, the fan speed is based on where the temperature is wi
 
 ## Video 
 
-https://github.com/user-attachments/assets/c62e9cc1-0d7f-4927-9bee-afd391406d06
 
+<video src="/Pictures/smart_fan_auto.mp4" width="500" controls></video>
+
+<iframe width="560" height="315" src="/Pictures/smart_fan_auto.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
