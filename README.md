@@ -73,8 +73,11 @@ In the **automatic mode**, the fan speed is based on where the temperature is wi
 <img src="/Pictures/20250519_221528.jpg" alt="Manual Source Select" width="500"><br>
 <img src="/Pictures/20250519_222247.jpg" alt="Auto Menu" width="500"><br>
 
+---
 
-For **Videos**, visit [Smart Fan Videos - Google Drive](https://drive.google.com/drive/folders/1x3JrscKStHZuTtQESSH0A9cGB1mKeb2B?usp=drive_link)
+## Videos
+
+For **Video Demo**, visit the link: [Smart Fan Videos - Google Drive](https://drive.google.com/drive/folders/1x3JrscKStHZuTtQESSH0A9cGB1mKeb2B?usp=drive_link)
 
 ---
 
