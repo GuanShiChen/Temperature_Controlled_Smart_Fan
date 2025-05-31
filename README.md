@@ -1,4 +1,4 @@
-# Smart Fan with Temperature-Based Control
+# Smart Fan System with Temperature-Based Control
 
 ## Overview:
 The goal of this project is to create a smart fan system that adjust its speed based on the current temperature. There are two modes: Manual and Automatic.
@@ -73,23 +73,8 @@ In the **automatic mode**, the fan speed is based on where the temperature is wi
 <img src="/Pictures/20250519_221528.jpg" alt="Manual Source Select" width="500"><br>
 <img src="/Pictures/20250519_222247.jpg" alt="Auto Menu" width="500"><br>
 
----
 
-## Video 
-
-
-<!-- <video src="/Pictures/smart_fan_auto.mp4" width="500" controls></video>
-[![Watch the video](https://raw.githubusercontent.com/GuanShiChen/T/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/GuanShiChen/Temperature_Controlled_Smart_Fan/main/Pictures/smart_fan_auto.mp4) -->
-
-Download video
-<video>
-    <source src="https://drive.google.com/uc?export=download&id=1givV7xeJEPQLSOkgNAD-oCg_KLhgeg8l" type='video/mp4'>
-</video>
-
-watch video
-<video>
-    <source src="https://drive.google.com/file/d/1givV7xeJEPQLSOkgNAD-oCg_KLhgeg8l/view?usp=sharing" type='video/mp4'>
-</video>
+For **Videos**, visit [Smart Fan Videos - Google Drive](https://drive.google.com/drive/folders/1x3JrscKStHZuTtQESSH0A9cGB1mKeb2B?usp=drive_link)
 
 ---
 
